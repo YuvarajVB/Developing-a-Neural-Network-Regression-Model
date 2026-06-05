@@ -128,17 +128,19 @@ print(f'Prediction: {prediction}')
 ```
 
 ### Dataset Information
-<img width="197" height="254" alt="image" src="https://github.com/user-attachments/assets/625dc2c7-8ca4-4bba-9f9c-f6a938735984" />
+<img width="237" height="375" alt="image" src="https://github.com/user-attachments/assets/de50a650-4ae9-4954-ae54-8a1cd706f41d" />
+
 
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
 Best Fit line plot
-<img width="734" height="577" alt="image" src="https://github.com/user-attachments/assets/c1f18bca-98d5-4f77-9545-042c9398f0d5" />
+<img width="628" height="480" alt="image" src="https://github.com/user-attachments/assets/62664e45-a7b6-4a9c-803a-72d61a231417" />
 
 
 ### New Sample Data Prediction
-<img width="383" height="39" alt="image" src="https://github.com/user-attachments/assets/1243fedb-1896-41b6-987c-924d922c8aab" />
+<img width="707" height="107" alt="image" src="https://github.com/user-attachments/assets/990d46b4-43a7-4f12-adf5-6f85055f5c8e" />
+
 
 
 ## RESULT
